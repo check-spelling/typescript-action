@@ -1,0 +1,12 @@
+autobuild
+camelcase
+codeql
+codespace
+eol
+jsx
+ncc
+nodenext
+nodenv
+versioning
+workflows
+yml
